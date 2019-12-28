@@ -8,6 +8,7 @@ public class HelloWorld {
 
         this.dependency = dependency;
     }
+
     public String beenCalled() {
         return dependency.say();
     }

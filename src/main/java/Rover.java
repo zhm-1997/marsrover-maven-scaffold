@@ -1,6 +1,4 @@
-package Rover;
 
-import Area.Area;
 
 public class Rover {
     int x;

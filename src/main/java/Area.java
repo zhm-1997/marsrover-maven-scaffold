@@ -1,5 +1,3 @@
-package Area;
-
 public class Area {
     private int x;
     private int y;
